@@ -17,10 +17,10 @@ Swiftの用語がかなりバラバラなので、統一のために訳語集を
 
 訳語 | 原語 | 捕捉
 ----|------|------------
-構造体 | structure |
-クラス | class |
+実値型 | structure |
+参照型 | class |
 列挙型 | enumeration |
-プロトコル | protocol |
+要求型 | protocol |
 総称 | generics | Javaで一般的な用語の「ジェネリクス」も併用してよい
 変異メソッド | mutating method |
 パターンズ | patterns | パターンマッチや変数の初期化に使われるパターンの仕様のこと。 cf. [Patterns](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Patterns.html)
