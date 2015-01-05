@@ -31,14 +31,14 @@ Swiftの用語がかなりバラバラなので、統一のために訳語集を
 添字 | subscript |
 パターンマッチ | pattern-matching | 正規表現のパターンマッチと紛らわしいのでなるべく使用は避けること cf. [Control Flow](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html#//apple_ref/doc/uid/TP40014097-CH9-XID_1900)
 ARC | ARC | Automatic Reference Counting. 訳語は与えない
-オプショナル型 | optional types | コードを表すときはT?(Tに注目する場合）またはOptional<T>（オプショナル型に注目する場合）
+オプショナル型 | optional types | コードを表すときはT?(Tに注目する場合）またはOptional&lt;T&gt;（オプショナル型に注目する場合）
 取り出し | unwrap | 「後置!の適用」 == 「Optional型のもつ値を取り出す」
 
 以下は訳語が定まっていないもの。
 
 訳語 | 原語 | 捕捉
 ----|------|------------
-? | implicitly-unwrapped optionals | コードを表すときはT?またはImplicitlyUnwrappedOptional<T>
+? | implicitly-unwrapped optionals | コードを表すときはT?またはImplicitlyUnwrappedOptional&lt;T&gt;
 
 ## Contributing
 
