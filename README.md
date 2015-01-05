@@ -34,11 +34,18 @@ ARC | ARC | Automatic Reference Counting. 訳語は与えない
 オプショナル型 | optional types | コードを表すときはT?(Tに注目する場合）またはOptional<T>（オプショナル型に注目する場合）
 取り出し | unwrap | 「後置!の適用」 == 「Optional型のもつ値を取り出す」
 
-以下は用語が定まっていないもの。
+以下は訳語が定まっていないもの。
 
-用語 | 原語 | 捕捉
+訳語 | 原語 | 捕捉
 ----|------|------------
 ? | implicitly-unwrapped optionals | コードを表すときはT?またはImplicitlyUnwrappedOptional<T>
+
+## Contributing
+
+新しい訳語の追加や変更のリクエストは歓迎します。以下のガイドラインに従っていただけるとスムーズかと思います。
+
+* 原典ないし既存の使用例へのリンク
+* README.md#Contributorsへのご自身のGitHub IDの追加
 
 ## License
 
