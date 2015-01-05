@@ -20,8 +20,8 @@ Swiftの用語がかなりバラバラなので、統一のために訳語集を
 構造体 | structure |
 クラス | class |
 列挙型 | enumeration |
-プロトコル | プロトコル |
-総称 | generics | Javaで一般的な用語の「ジェネリクス」も紹介する
+プロトコル | protocol |
+総称 | generics | Javaで一般的な用語の「ジェネリクス」も併用してよい
 変異メソッド | mutating method |
 パターンズ | patterns | パターンマッチや変数の初期化に使われるパターンの仕様のこと。 cf. [Patterns](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Patterns.html)
 格納プロパティ | stored property |
