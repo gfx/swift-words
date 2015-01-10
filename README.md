@@ -33,6 +33,8 @@ Swiftの用語がかなりバラバラなので、統一のために訳語集を
 ARC | ARC | Automatic Reference Counting. 訳語は与えない
 オプショナル型 | optional types | コードを表すときはT?(Tに注目する場合）またはOptional&lt;T&gt;（オプショナル型に注目する場合）
 取り出し | unwrap | 「後置!の適用」 == 「Optional型のもつ値を取り出す」
+値型 | value types |
+参照型 | reference types |
 
 以下は訳語が定まっていないもの。
 
@@ -58,3 +60,4 @@ This document is licensed in [CC-BY](https://creativecommons.org/licenses/by/3.0
 ## Contributors
 
 * https://github.com/yuseinishiyama
+* https://github.com/koher
