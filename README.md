@@ -35,6 +35,7 @@ ARC | ARC | Automatic Reference Counting. 訳語は与えない
 取り出し | unwrap | 「後置!の適用」 == 「Optional型のもつ値を取り出す」
 値型 | value types |
 参照型 | reference types |
+属性 | attributes |
 
 以下は訳語が定まっていないもの。
 
