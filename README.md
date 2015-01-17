@@ -37,6 +37,8 @@ ARC | ARC | Automatic Reference Counting. 訳語は与えない
 値型 | value types |
 参照型 | reference types |
 属性 | attributes |
+同一 | identical | `===` は同一性演算子
+同値 | equivalent | `==` は同値性演算子
 
 以下は訳語が定まっていないもの。
 
