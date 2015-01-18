@@ -29,14 +29,14 @@ Swiftの用語がかなりバラバラなので、統一のために訳語集を
 初期化子 | initializer |
 解放子 | deinitializer |
 添字 | subscript |
-パターンマッチ | pattern-matching | 正規表現のパターンマッチと紛らわしいのでなるべく使用は避けること cf. [Control Flow](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html#//apple_ref/doc/uid/TP40014097-CH9-XID_1900)
-ARC | ARC | Automatic Reference Counting. 訳語は与えない
-オプショナル型 | optional types | コードを表すときはT?(Tに注目する場合）またはOptional&lt;T&gt;（オプショナル型に注目する場合）
-開封 | unwrap | 単に「後置!の適用」 == 「Optional型のもつ値を取り出す」でもよい
-暗黙的開封オプショナル型 | implicitly-unwrapped optionals | コードを表すときはT?またはImplicitlyUnwrappedOptional&lt;T&gt;
+パターンマッチ | pattern-matching | 正規表現のパターンマッチと紛らわしいので注意すること cf. [Control Flow](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html#//apple_ref/doc/uid/TP40014097-CH9-XID_1900)
+ARC | ARC | Automatic Reference Counting; 訳語は与えない
+オプショナル型 | optional types | コードを表すときは `T?` (Tに注目する場合）または `Optional&lt;T&gt;`（オプショナル型に注目する場合）
+開封 | unwrap | 単に「オプショナル型のもつ値を取り出す」でもよい
+暗黙的開封オプショナル型 | implicitly-unwrapped optionals | コードを表すときは `T?` または `ImplicitlyUnwrappedOptional&lt;T&gt;`
 値型 | value types |
 参照型 | reference types |
-属性 | attributes |
+属性 | attributes | `@objc` など; プロパティのことではない
 同一 | identical | `===` は同一性演算子
 同値 | equivalent | `==` は同値性演算子
 
