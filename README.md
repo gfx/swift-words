@@ -39,7 +39,7 @@ ARC | ARC | Automatic Reference Counting; 訳語は与えない
 属性 | attributes | `@objc` など; プロパティのことではない
 同一 | identical | `===` は同一性演算子
 同値 | equivalent | `==` は同値性演算子
-null合体演算子 | null coalescing operator | fro [wikipedia/null合体演算子](http://ja.wikipedia.org/wiki/Null%E5%90%88%E4%BD%93%E6%BC%94%E7%AE%97%E5%AD%90)
+null合体演算子 | null coalescing operator | from [wikipedia/null合体演算子](http://ja.wikipedia.org/wiki/Null%E5%90%88%E4%BD%93%E6%BC%94%E7%AE%97%E5%AD%90)
 
 以下は訳語が定まっていないもの。
 
