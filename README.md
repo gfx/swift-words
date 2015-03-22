@@ -34,8 +34,8 @@ ARC | ARC | Automatic Reference Counting; 訳語は与えない
 オプショナル型 | optional types | コードを表すときは `T?` (Tに注目する場合）または `Optional<T>`（オプショナル型に注目する場合）
 開封 | unwrap | 単に「オプショナル型のもつ値を取り出す」でもよい
 暗黙的開封オプショナル型 | implicitly-unwrapped optionals | コードを表すときは `T?` または `ImplicitlyUnwrappedOptional<T>`
-値型 | value types |
-参照型 | reference types |
+値型 | value types | 構造体と列挙型のこと
+参照型 | reference types | クラスのこと
 属性 | attributes | `@objc` など; プロパティのことではない
 同一 | identical | `===` は同一性演算子
 同値 | equivalent | `==` は同値性演算子
